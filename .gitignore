@@ -1,0 +1,5 @@
+*pycache* 
+*.whl 
+.idea 
+venv/ 
+docs/build/  
